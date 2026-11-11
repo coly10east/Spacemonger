@@ -206,4 +206,4 @@ This repository serves as the official landing page for SpaceMonger. The softwar
 **Get the most recent version of SpaceMonger today!**
 
 ---
-**Last updated:** 2026-11-11 10:39:00 UTC
+**Last updated:** 2026-11-11 18:32:43 UTC
